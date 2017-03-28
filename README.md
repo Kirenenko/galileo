@@ -11,6 +11,9 @@ This project shows a stepper motor control using Intel Galileo Microcontroller t
 
 ## Video
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9_a-HLPgUDw" target="_blank"><img src="http://img.youtube.com/vi/9_a-HLPgUDw/0.jpg" alt="VideoPreview" width="240" height="180" border="10" /></a>
+
+https://youtu.be/9_a-HLPgUDw
 
 
 ## Components
