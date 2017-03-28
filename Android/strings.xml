@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Motor Controller</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="androidip">Android IP</string>
+    <string name="controllerip">Controller IP</string>
+    <string name="status">Status</string>
+    <string name="check">Check</string>
+    <string name="startstop">Start/Stop</string>
+    <string name="sensorspeed">Sensor Speed(Rpm)</string><string name="stepperspeed">Stepper Speed(Rpm)</string>
+    
+
+</resources>
